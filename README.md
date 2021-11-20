@@ -8,9 +8,6 @@ educational robot kit that is safe and easy to build.
 ## Usage
 
 The steps to using this program are provided in the User Manual.
-Circuit Layout:
-![image](https://user-images.githubusercontent.com/73859429/142744284-cabf8e20-ce83-4df9-b8ad-6f6e886592f9.png)
-
 
 ## Future Improvements
 
@@ -18,8 +15,7 @@ Circuit Layout:
 	2. Allow the user to control the robot by means of IR control or bluetooth
 	3. Create a better understanding User Manual
 	4. Use of PCB Design to simplify and reduce clutter
-  
- 
+   
 ## Sources
 
 Drew a lot of insipiration from this youtube channel in figuring out how to create a chess board and make pieces move.
