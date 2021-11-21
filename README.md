@@ -9,6 +9,13 @@ educational robot kit that is safe and easy to build.
 
 The steps to using this program are provided in the User Manual.
 
+
+## Example
+
+https://user-images.githubusercontent.com/73859429/142746518-29263186-5cf1-49a6-b4eb-14165c32aac2.mp4
+
+
+
 ## Future Improvements
 
 	1. Add more sensors.
